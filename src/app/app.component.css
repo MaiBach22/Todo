@@ -1,0 +1,5 @@
+#task:hover button,
+input:hover ~ button,
+label:hover ~ button {
+  opacity: 1;
+}
