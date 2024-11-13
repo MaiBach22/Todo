@@ -14,3 +14,4 @@ This project was created for a challenge on Frontend Mentor. It's a fully respon
 - ngRx for state management and dark mode
 - Tailwind CSS for styling
 
+Live: https://maibach22.github.io/todoApp_Angular18_ngRx/
